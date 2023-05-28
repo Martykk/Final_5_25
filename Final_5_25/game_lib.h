@@ -30,25 +30,25 @@ bool CheckGameWinCondition(Role^ player);
 bool CheckGameOverCondition(Role^ player);
 
 // 函數用於遊戲結束時的操作
-void GameOver();
+//void GameOver();
 
 // 函數用於遊戲主循環
-void GameLoop();
+//void GameLoop();
 
 // 函數用於處理玩家輸入
-void HandlePlayerInput(Role^ player);
+//void HandlePlayerInput(Role^ player);
 
 // 函數用於玩家與怪物之間的戰鬥
-void Battle(Role^ player, Monster^ monster);
+//oid Battle(Role^ player, Monster^ monster);
 
 // 函數用於遊戲勝利時的操作
-void GameWin();
+//void GameWin();
 
 // 函數用於處理玩家的升級和技能解鎖
-void LevelUp(Role^ player);
+//void LevelUp(Role^ player);
 
 // 函數用於顯示遊戲畫面
-void RenderGameScreen();
+//void RenderGameScreen();
 
 // 函數用於初始化遊戲
-void InitializeGame();
+//void InitializeGame();

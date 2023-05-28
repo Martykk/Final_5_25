@@ -61,9 +61,9 @@ namespace CppCLRWinformsProjekt {
 
 		// 函數用於開始遊戲
 		void StartGame() {
-			InitializeGame();
-			RenderGameScreen();
-			GameLoop();
+			//InitializeGame();
+			//RenderGameScreen();
+			//GameLoop();
 		}
 
 #pragma endregion

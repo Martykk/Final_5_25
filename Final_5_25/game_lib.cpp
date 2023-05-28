@@ -1,8 +1,8 @@
 ﻿#pragma once
+#include "pch.h"
 #include "game_lib.h"
 #include "Resource.h"
 #include "other.h"
-#include "pch.h"
 #include "data_format.h"
 
 
